@@ -122,6 +122,7 @@ button {
     text-align: center;
     align-items: center;
     flex-basis: 150px;
+    gap: 5px;
 }
 
 .quote {
