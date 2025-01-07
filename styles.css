@@ -147,3 +147,28 @@ button {
     font-weight: bold;
 }
 
+.cta {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 150px 400px;
+    padding: 50px;
+    gap: 100px;
+    background-color: #3882F6;
+    border-radius: 8px;
+}
+
+.cta-button {
+    border: 2px solid white;
+}
+
+.cta-title {
+    color: #F9FAF8;
+    margin-bottom: 2px;
+    font-weight: bold;
+}
+
+.cta-description {
+    color: #E5E7EB;
+    font-weight: 300;
+}
